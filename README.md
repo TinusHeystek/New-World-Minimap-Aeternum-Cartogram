@@ -1,6 +1,6 @@
 # Aeternum Cartogram *a New World Minimap*
 
-*This repository is **not** affiliated with Amazon Games.
+*This repository is **not** affiliated with Amazon Games.*
 
 ## Discord Community
 For any support or suggestion please feel free to join the Discord channel https://discord.gg/rVmaJpypkP 
@@ -9,7 +9,9 @@ Aeternum Cartogram is a screen overlay resource Minimap application for New Worl
 
 ## Download the latest Release NOW!
 Aeternum Cartogram - Release v1.0.0
-Download: {{link}}
+
+Download: https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/releases/download/v1.0.0/v1.0.0.-.New.World.-.Aeternum.Cartogram.zip
+
 
 ## Foreward / History
 
@@ -47,12 +49,22 @@ The application is currently still in development and not all requested features
 ## Setup
 
 Just like the previous Minimap, “Aeternum Cartogram” also makes use of the in-game position coordinates that gets displayed by enabling the “Show FPS” settings in the games “Settings -> Visuals” section. 
-- Step 1: Download and extract the latest version from the “Release” page. {{picture}}
+
+- Step 1: Download and extract the latest version from the “Release” page.
+
+![Download Link](https://user-images.githubusercontent.com/56069078/198733470-8fa094a1-e01f-4cfd-9bd4-79057f473829.png)
+
 - Step 2: Start New World and enable the “Show FPS” settings. {{picture}}
-- Step 3: Start AeternumCartogram.exe. The first start will always be a little slower as the tool is generating resources that would be cached for the next execution 
+
+![Enable Show FPS](https://user-images.githubusercontent.com/56069078/198733186-02e00b95-95c4-4baf-af01-40611caf550f.png)
+
+- Step 3: Start AeternumCartogram.exe. 
 
 If the minimap does not automatically detect your position, open the Settings menu and navigate to the “Position” tab.  Click the “Automatic configure” button. 
 If you are a GeForce Now or colour-blind or if any of the steps did not work for you, please reach out to our community on Discord  https://discord.gg/rVmaJpypkP who would be happy to assist.
 
+![Screenshot1](https://user-images.githubusercontent.com/56069078/198733214-ccf95ab6-777f-4467-b6d0-0085a49826de.png)
+
 ## Donate
 This is a Free passion project and there are currently no Monetization features yet, please support me by donating to the Project. Thank you.
+[![donate](https://user-images.githubusercontent.com/56069078/198733669-42f63892-324f-4404-9fd8-d7dc8f823b4e.png)](https://www.paypal.com/donate?hosted_button_id=BBBW8SBCXYRSU)
