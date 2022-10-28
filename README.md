@@ -12,6 +12,10 @@ Aeternum Cartogram - Release v1.0.0
 
 Download: https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/releases/download/v1.0.0/v1.0.0.-.New.World.-.Aeternum.Cartogram.zip
 
+## Donate
+This is a Free passion project and there are currently no Monetization features yet, please support me by donating to the Project. Thank you.
+
+[![donate](https://user-images.githubusercontent.com/56069078/198734196-e92c1e2a-df04-4676-847c-c0e0a197b9e0.png)](https://www.paypal.com/donate?hosted_button_id=BBBW8SBCXYRSU)
 
 ## Foreward / History
 
@@ -64,7 +68,3 @@ If the minimap does not automatically detect your position, open the Settings me
 If you are a GeForce Now or colour-blind or if any of the steps did not work for you, please reach out to our community on Discord  https://discord.gg/rVmaJpypkP who would be happy to assist.
 
 ![Screenshot1](https://user-images.githubusercontent.com/56069078/198733214-ccf95ab6-777f-4467-b6d0-0085a49826de.png)
-
-## Donate
-This is a Free passion project and there are currently no Monetization features yet, please support me by donating to the Project. Thank you.
-[![donate](https://user-images.githubusercontent.com/56069078/198733669-42f63892-324f-4404-9fd8-d7dc8f823b4e.png)](https://www.paypal.com/donate?hosted_button_id=BBBW8SBCXYRSU)
