@@ -12,6 +12,10 @@ Aeternum Cartogram - Release v1.0.0
 
 Download: https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/releases/download/v1.0.0/v1.0.0.-.New.World.-.Aeternum.Cartogram.zip
 
+##First Look
+
+![First look](https://user-images.githubusercontent.com/56069078/198735486-4881719e-b692-49be-b209-7f5905abd8c0.png)
+
 ## Donate
 This is a Free passion project and there are currently no Monetization features yet, please support me by donating to the Project. Thank you.
 
