@@ -14,7 +14,7 @@ Download: https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/r
 
 ## First Look
 
-![image](https://user-images.githubusercontent.com/56069078/199514474-f354a0b1-a8dd-41c1-8a8c-4725f17ac9e5.png)
+![Release v1 1 0](https://user-images.githubusercontent.com/56069078/199514770-df811dd3-24ad-4d7f-b042-962babf9c9e9.png)
 
 ![First look](https://user-images.githubusercontent.com/56069078/198735486-4881719e-b692-49be-b209-7f5905abd8c0.png)
 
