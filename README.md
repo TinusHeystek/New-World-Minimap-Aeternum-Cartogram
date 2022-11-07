@@ -8,9 +8,9 @@ For any support or suggestion please feel free to join the Discord channel https
 Aeternum Cartogram is a screen overlay resource Minimap application for New World.
 
 ## Download the [latest Release NOW!](https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/releases)
-Aeternum Cartogram - Release v1.2.0
+Aeternum Cartogram - Release v1.2.1
 
-Download: https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/releases/download/v1.2.0/v1.2.0.-.New.World.-.Aeternum.Cartogram.zip
+Download: https://github.com/TinusHeystek/New-World-Minimap-Aeternum-Cartogram/releases/download/v1.2.1/v1.2.1.-.New.World.-.Aeternum.Cartogram.zip
 
 ## First Look
 
